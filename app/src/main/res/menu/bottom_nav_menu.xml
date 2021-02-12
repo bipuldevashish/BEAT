@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/menu_home" />
+
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="@string/menu_search" />
+
+    <item
+        android:id="@+id/player"
+        android:icon="@drawable/ic_baseline_play_circle_outline_24"
+        android:title="@string/menu_player" />
+
+    <item
+        android:id="@+id/firebase"
+        android:icon="@drawable/ic_baseline_local_fire_department_24"
+        android:title="@string/menu_firebase" />
+
+    <item
+        android:id="@+id/downloads"
+        android:icon="@drawable/ic_baseline_arrow_circle_down_24"
+        android:title="@string/menu_download" />
+
+</menu>

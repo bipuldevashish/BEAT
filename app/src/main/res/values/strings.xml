@@ -2,4 +2,12 @@
     <string name="app_name">BEAT</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    //Menu Items
+    <string name="menu_home">Home</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_player">Player</string>
+    <string name="menu_firebase">Firebase</string>
+    <string name="menu_download">Downloads</string>
+
 </resources>
