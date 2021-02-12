@@ -8,9 +8,59 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    <color name="yellow">#FFDE03</color>
-    <color name="blue">#0336FF</color>
-    <color name="blue_varient">#0025B6</color>
 
 
+    <color name="colorBlue">#28A2CF</color>
+    <color name="colorBlueT">#6428a2cf</color>
+    <color name="colorPurple">#A130FF</color>
+    <color name="colorPurpleT">#64a130ff</color>
+    <color name="colorWhite">#ffffff</color>
+
+    <color name="red">#F15050</color>
+    <color name="red1">#bd2520 </color>
+    <color name="red_dark">#d43c3c</color>
+    <color name="yellow">#EED45A</color>
+    <color name="yellow_dark">#d4bb46</color>
+    <color name="lime">#E3D3C3</color>
+    <color name="lime_dark">#9dbf35</color>
+    <color name="green">#48D26B</color>
+    <color name="gray">#808080</color>
+    <color name="green_dark">#36b957</color>
+    <color name="blue">#48DFE1</color>
+    <color name="blue_dark">#37c4c6</color>
+    <color name="darkblue">#5A9CEE</color>
+    <color name="darkblue_dark">#417eca</color>
+    <color name="darkviolet">#7E50F1</color>
+    <color name="darkviolet_dark">#683dd4</color>
+    <color name="violet">#D65AEE</color>
+    <color name="violet_dark">#b33ec9</color>
+    <color name="navy">#000080</color>
+    <color name="littlecrimish">#eaffd0</color>
+    <color name="darkgray">#A9A9A9</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="lightgray">#D3D3D3</color>
+    <color name="chocolate">#D2691E</color>
+    <color name="cornblue">#6495ed</color>
+    <color name="honeydeo">#c1cdc1</color>
+    <color name="midnightblue">#191970</color>
+    <color name="dodgerblue">#1e90ff</color>
+    <color name="darkslategray">#2F4F4F</color>
+    <color name="dimgray">#696969</color>
+    <color name="darkest_green">#006400</color>
+    <color name="crimson">#DC143C</color>
+    <color name="cream">#F9E5BC</color>
+    <color name="Maroon">#800000</color>
+    <color name="little_yellow">#F3FAB2</color>
+    <color name="snow">#F0FFF0</color>
+    <color name="blue1">#3b5998</color>
+    <color name="slate_gray">#2f4f4f</color>
+    <color name="wheat">#f5deb3</color>
+    <color name="pinchpuff">#FFDAB9</color>
+    <color name="blue_gray">#DBE1F1</color>
+    <color name="green1">#A8F29A</color>
+    <color name="newcolor">#3E534D</color>
+    <color name="newcolor2">#2E4053</color>
+    <color name="newcolor1">#5F5F5F</color>
+    <color name="newcolor3">#3E534D</color>
+    <color name="littlesilver">#EBEBEB</color>
 </resources>
